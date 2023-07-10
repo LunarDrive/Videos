@@ -1,0 +1,20 @@
+{
+    "audioVolume": 0,
+    "closeLibrarType": "5",
+    "closeLibraryId": "1",
+    "cloudLocalFolderId": "-1",
+    "coverPath": "",
+    "createdDefaultCloudLocalFolder": true,
+    "createdDefaultDownloadFolder": true,
+    "downloadFolderId": "-1",
+    "downloadFolderName": "",
+    "folders": [
+    ],
+    "importType": 0,
+    "libraryName": "Git Videos",
+    "openedColorOptimize": true,
+    "previewType": 0,
+    "tag_ids": [
+    ],
+    "videoVolume": 0
+}
